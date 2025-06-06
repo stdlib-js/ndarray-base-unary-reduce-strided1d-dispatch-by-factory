@@ -39,7 +39,8 @@
   "dependencies": {
     "@stdlib/ndarray-base-unary-reduce-strided1d-dispatch-by": "github:stdlib-js/ndarray-base-unary-reduce-strided1d-dispatch-by#main",
     "@stdlib/types": "^0.4.3",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2"
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-dtypes": "^0.3.0",
